@@ -3,7 +3,7 @@
 
 <p>Тренировка верстки</p>
 
-<a href="https://olgausovich.github.io/#/">Просмотр демо</a>
+<a href="https://olgausovich.github.io/simple-layout/">Просмотр демо</a>
 
 ![Page Screenshot][screenshot]
 
